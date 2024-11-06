@@ -1,5 +1,5 @@
 def sum():
-    a = 15 + 20
+    a = 20 + 20
     print(a)
 
 
